@@ -74,4 +74,4 @@ Budian was born in Taizhou, Jiangsu, and is now studying at Nanjing University. 
 
 He usually likes to get a good night's sleep when encountering difficulties, and get a good night's sleep after not getting enough. His English proficiency is self-contained, he can't understand other people's English, and he can't speak it himself. He is a master of English.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
