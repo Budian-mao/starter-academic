@@ -72,6 +72,6 @@ highlight_name: false
 
 Budian was born in Taizhou, Jiangsu, and is now studying at Nanjing University. His Chinese name is Mao Yucheng. When he was 12 years old, he picked up a dog named Wang Yukai by the river and accepted him as a righteous son. This is the origin of the term "dog father".
 
-He usually likes to get a good night's sleep when encountering difficulties, and get a good night's sleep after not getting enough. His English proficiency is self-contained, he can't understand other people's English, and he can't speak it himself. He is a master of English.
+He usually likes to get a good night's sleep when encountering difficulties, and get a good night's sleep after not getting enough. His English proficiency is self-contained, he can't understand other people's English, and he can't speak it himself. He is really a master of English.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
