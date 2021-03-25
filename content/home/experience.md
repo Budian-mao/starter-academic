@@ -36,7 +36,7 @@ experience:
         * Operations Research
         
   - title: Head chef
-    company: Everywhere
+    company: Bed
     company_url: ''
     location: Kings Canyon
     date_start: '2015-01-01'

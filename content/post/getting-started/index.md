@@ -1,6 +1,6 @@
 ---
 title: Travel with good friends
-subtitle: Welcome to Budian's homepage.
+subtitle: Budian,Roy, Lucia ,Handsome, Little princess and Director Jin.
 
 # Summary for listings and search engines
 summary: Happy trip to Happy Valley in Nanjing
@@ -34,7 +34,7 @@ authors:
 
 tags:
 - Happiness
-- 公开
+- 青春
 
 categories:
 - Travel
@@ -43,7 +43,7 @@ categories:
 
 ## Overview
 
-Welcome to Budian's homepage.This is the travelling to Nan Jing happiness Gu,with Roy, Lucia ,Handsome, Little priness and Jin zhuren.
+Welcome to Budian's homepage.This is the travelling to Nan Jing happiness Gu,with Roy, Lucia ,Handsome, Little priness and Jin zhuren.The best time with the best friends, the best wishes to the best of you, looking at the home you will be rich, beautiful, happy.
 
 
 
