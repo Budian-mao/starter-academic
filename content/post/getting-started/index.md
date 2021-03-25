@@ -43,7 +43,7 @@ categories:
 
 ## Overview
 
-Welcome to Budian's homepage.
+Welcome to Budian's homepage.This is the travelling to Nan Jing happiness Gu,with Roy, Lucia ,Handsome, Little priness and Jin zhuren.
 
 
 
