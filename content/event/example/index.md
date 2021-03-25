@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Preside over United Nations meetings
 
-event: Wowchemy Conference
+event: Preside over United Nations meetings
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Geneva Switzerland
 address:
   street: 450 Serra Mall
-  city: Stanford
+  city: Geneva Switzerland
   region: CA
   postcode: '94305'
-  country: United States
+  country: Switzerland
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Preside over United Nations meetings
+abstract: "主持联合国大会"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
