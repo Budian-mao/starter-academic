@@ -20,16 +20,16 @@ doi: ""
 publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# Legend: 0 = Uncategorized; 1 = Leaders' meeting; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Nan Jing University*
+publication_short: In *NJU*
 
-abstract: 在火星与奥巴马会晤。
+abstract: 距离上一次在火星与奥巴马会晤已经时隔六年，当下对大学生减负的工作迫在眉梢，Budian与Obama在南京大学再次会晤，达成了取消大学生作业的共识，史称“BO会谈”，具有深刻的历史意义。
 
 # Summary. An optional shortened abstract.
 summary: 与奥巴马达成取消大学生作业共识

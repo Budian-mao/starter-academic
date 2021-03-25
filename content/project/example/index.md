@@ -1,6 +1,6 @@
 ---
 title: 金融软件工程
-summary: 小白学写代码
+summary: 菜鸡小白的代码历练之旅
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url:https://twitter.com/AwadaYong
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-真的能显示中文吗
+       计算机技术博大精深，软件工程任务四通八达。初学金融软件工程这门课，内心忐忑和期待共存，希望能在痛苦的写bug中锻炼能力，期待能写出真正用心的作品。
