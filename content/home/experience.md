@@ -31,15 +31,15 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Computer technology
+        * Financial engineering
+        * Operations Research
         
-  - title: Professor
-    company: University X
+  - title: Head chef
+    company: Everywhere
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Kings Canyon
+    date_start: '2015-01-01'
+    date_end: '2020-12-31'
+    description: Feed your opponents and anger your teammates through various food operations.
 ---
