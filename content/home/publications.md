@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: My article
 subtitle: ''
 
 content:
@@ -26,7 +26,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: ''
+    author: 'Budian'
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -37,6 +37,4 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+https://www.zizhuxuexi.cn/dasai/201511/35801.html
