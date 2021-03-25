@@ -13,7 +13,7 @@ address:
   country: Switzerland
 
 summary: 受邀主持联合国大会
-abstract: "主持联合国大会"
+abstract: "Budian受邀主持联合国大会，决定把软件工程纳入小学课程必修课"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
