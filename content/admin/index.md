@@ -2,6 +2,6 @@
 # Generate Wowchemy CMS
 type: Budian
 outputs:
-- Budian_config
+- wowchemycms_config
 - HTML
 ---
