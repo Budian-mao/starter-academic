@@ -43,7 +43,7 @@ categories:
 
 ## Overview
 
-Welcome to Budian's homepage.This is the travelling to Nan Jing happiness Gu,with Roy, Lucia ,Handsome, Little priness and Jin zhuren.The best time with the best friends, the best wishes to the best of you, looking at the home you will be rich, beautiful, happy.
+Welcome to Budian's homepage.This is the travelling to Nan Jing happiness Gu,with Roy, Lucia ,Handsome, Little princess and Director Jin.The best time with the best friends, the best wishes to the best of you, looking at the home you will be rich, beautiful, happy.
 
 
 
