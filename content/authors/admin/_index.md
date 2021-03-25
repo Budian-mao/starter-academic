@@ -48,10 +48,10 @@ social:
   link: https://twitter.com/AwadaYong
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%AF%9B%E9%92%B0%E6%88%90&fenlei=256&oq=%25E6%25AF%259B%25E9%2592%25B0%25E6%2588%2590&rsv_pq=eedff2b10008bb01&rsv_t=c6d4tiz2g%2BfBX5nNc%2B7hynCOMdv%2FKOEPEyzfj%2F6QJMIm4D8mj0jjCv%2BEcc0&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_btype=t&rsv_sug=2
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Budian-mao
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/

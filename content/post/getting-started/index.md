@@ -1,9 +1,9 @@
 ---
-title: Welcome to Budian's homepage.
+title: Travel with good friends
 subtitle: Welcome to Budian's homepage.
 
 # Summary for listings and search engines
-summary: Welcome to Budian's homepage.
+summary: Happy trip to Happy Valley in Nanjing
 
 # Link this post with a project
 projects: []
