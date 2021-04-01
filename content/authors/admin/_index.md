@@ -52,9 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Budian-mao
-- icon: linkedin
+- icon: qq
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://user.qzone.qq.com/77218623/infocenter
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
