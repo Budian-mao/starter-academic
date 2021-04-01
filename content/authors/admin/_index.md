@@ -54,7 +54,7 @@ social:
   link: https://github.com/Budian-mao
 - icon: qq
   icon_pack: fab
-  link: https://user.qzone.qq.com/77218623/infocenter
+  link: https://im.qq.com/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
